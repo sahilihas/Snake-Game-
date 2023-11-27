@@ -1,1 +1,2 @@
-# Snake-Game-
+# Snake-Game-🐍🐍🐍
+It is a 2D snake game in python language using PyGame library along with random and clock...
